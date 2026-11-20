@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-11-20",
+  "source_protocols_total": 9079,
+  "excluded_subprotocols_of_tokenized_parents": 100,
+  "pre_token_with_tvl_over_1m": 838,
+  "combined_tvl_usd": 201458497944.26,
+  "top_categories": {
+    "Dexs": 161,
+    "Liquid Staking": 81,
+    "Lending": 74,
+    "Bridge": 50,
+    "Yield": 50,
+    "CEX": 49,
+    "Risk Curators": 48,
+    "Derivatives": 38,
+    "RWA": 35,
+    "Onchain Capital Allocator": 27
+  }
+}
